@@ -1,5 +1,7 @@
 # rust-is
-Experimental Rust image server. Mostly for me to learn a bit more Rust, though I may also end up using it in personal projects later.
+Experimental Rust image server. Mostly for me to learn a bit more Rust (and Axum), though I may also end up using it in personal projects later.
+
+
 
 ## Planned Features
 
